@@ -10,3 +10,9 @@ pandas
 awscli
 urllib3
 mss
+
+
+folium==0.2.1
+numpy~=1.19.2
+urllib3==1.25.4
+imgaug==0.2.5
